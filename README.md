@@ -6,7 +6,7 @@ A simple and interactive **JavaScript Age Calculator** web application that calc
 
 ## 🌐 Live Demo
 > [Click here to view the live demo](#)  
-[*(Replace with your deployed link once available)*](https://age-calculator-five-lac.vercel.app/)
+(https://age-calculator-five-lac.vercel.app/)
 
 
 ## 📂 Project Structure
@@ -51,6 +51,6 @@ Edit
 ## 🧑‍💻 Author
 
 **Amaan Ali**  
-📧 Connect with me on [LinkedIn](www.linkedin.com/in/amaan-ali-768b32322) *(add your link)*
+📧 Connect with me on [LinkedIn](www.linkedin.com/in/amaan-ali-768b32322) 
 
 ---
