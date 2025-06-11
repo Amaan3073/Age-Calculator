@@ -2,13 +2,11 @@
 
 A simple and interactive **JavaScript Age Calculator** web application that calculates your age in **years, months, and days** based on your date of birth.
 
-![Screenshot](https://via.placeholder.com/800x400.png?text=Age+Calculator+App+Preview)
+---![Screenshot 2025-06-11 224610](https://github.com/user-attachments/assets/884b71fb-7cea-4777-bc93-602462bcd10f)
 
 ## 🌐 Live Demo
 > [Click here to view the live demo](#)  
-*(Replace with your deployed link once available)*
-
----![Screenshot 2025-06-11 224610](https://github.com/user-attachments/assets/884b71fb-7cea-4777-bc93-602462bcd10f)
+[*(Replace with your deployed link once available)*](https://age-calculator-five-lac.vercel.app/)
 
 
 ## 📂 Project Structure
@@ -49,17 +47,10 @@ Edit
 - **CSS3**
 - **Vanilla JavaScript**
 
----
-
-## 📸 Screenshot
-
-<img src="https://via.placeholder.com/700x350.png?text=App+Screenshot" alt="App Screenshot" width="700"/>
-
----
 
 ## 🧑‍💻 Author
 
 **Amaan Ali**  
-📧 Connect with me on [LinkedIn](https://linkedin.com) *(add your link)*
+📧 Connect with me on [LinkedIn](www.linkedin.com/in/amaan-ali-768b32322) *(add your link)*
 
 ---
